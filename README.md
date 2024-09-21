@@ -1,5 +1,5 @@
 # Library Management App - IIT Jodhpur
-This Library Management App, developed for IIT Jodhpur, is currently live and serves over 500 users. It provides a seamless experience with advanced features such as QR code-based self-check-in and checkout, book searches, and more. The app is integrated with the institute’s Koha LMS and offers both a mobile app for students and an admin portal for the library management team.
+This Library Management App, developed for IIT Jodhpur, is currently live and serves over 500 users. (To be increased, data of 3 days after launch) It provides a seamless experience with advanced features such as QR code-based self-check-in and checkout, book searches, and more. The app is integrated with the institute’s Koha LMS and offers both a mobile app for students and an admin portal for the library management team.
 
 # Technology Stack:
 - Frontend: Flutter
