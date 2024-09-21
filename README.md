@@ -4,7 +4,7 @@ This Library Management App, developed for IIT Jodhpur, is currently live and se
 # Technology Stack:
 - Frontend: Flutter
 - Backend: MERN (MongoDB, Express.js, React.js, Node.js)
-- Database: MySQL2
+- Database: SQL, MongoDB
 - SSH: ssh2 for secure server communication
 - Library System: Koha LMS
 - Web Scraping: Apify Web Scraper
@@ -51,3 +51,5 @@ Username: playcheck@gmail.com
 Password: hello123
 Apk file link: [https://drive.google.com/drive/folders/1RxuJaX-nOOr7iTNm_VbldGATk_EIK00W?usp=sharing
 ](url)
+
+PS.: The app codes are a private repository beacuse of privacy issues regarding IITJ Adminsitration and Library.
