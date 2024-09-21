@@ -49,3 +49,5 @@ This app brings an innovative and mobile-friendly solution to the institute’s 
 Install the apk file. You can login the app using these credentials:
 Username: playcheck@gmail.com
 Password: hello123
+Apk file link: [https://drive.google.com/drive/folders/1RxuJaX-nOOr7iTNm_VbldGATk_EIK00W?usp=sharing
+](url)
